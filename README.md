@@ -1,1 +1,1 @@
-printf team project
+This project was done by me and my partner
