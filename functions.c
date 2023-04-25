@@ -1,6 +1,7 @@
 #include "main.h"
 /************************* PRINT CHAR *************************/
 /**
+ * Team Project Siphamandla and Getrude
  * print_char - Prints a char
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
