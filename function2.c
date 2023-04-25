@@ -1,7 +1,7 @@
 #include "main.h"
 /****************** PRINT POINTER ******************/
 /**
- * Team Project Siphamandla by Getrude
+ * Team Project Siphamandla and Getrude
  * print_pointer - Prints the value of a pointer variable
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
